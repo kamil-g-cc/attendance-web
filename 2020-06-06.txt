@@ -11,3 +11,4 @@ lista obecnosci 6 cze 2020 (alfabetycznie)
 9. Damian Zdulski
 10.Adrian Gołębeiwskoi
 >>>>>>> edb5edeb6af3b534f08bef3d6275a0c693747b02
+Andrzej Malik
