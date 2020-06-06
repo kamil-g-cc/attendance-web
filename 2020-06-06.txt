@@ -4,5 +4,6 @@ lista obecnosci 6 cze 2020 (alfabetycznie)
 2. Tomasz Budziszewski
 3. Natalia Krygier
 4.Andrzej Pakieser
-5. Damian Zdulski
+5.Łukasz Stańczak
+6. Damian Zdulski
 ...
