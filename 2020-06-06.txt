@@ -2,8 +2,18 @@ lista obecnosci 6 cze 2020 (alfabetycznie)
 
 1. Andrzejczuk Agnieszka
 2. Tomasz Budziszewski
+<<<<<<< HEAD
 3. Natalia Krygier
 4.Andrzej Pakieser
 5. Damian Zdulski
 6.Adrian Gołębiewski
 ...
+=======
+3. Ola Grzegorczyk
+4. Natalia Krygier
+5. Andrzej Pakieser
+6. Łukasz Stańczak
+7. Radek Szczepanik
+8. Damian Zdulski
+9.Adrian Gołębeiwskoi
+>>>>>>> edb5edeb6af3b534f08bef3d6275a0c693747b02
